@@ -33,7 +33,7 @@ modeclasses = {710: 'Quintal', 722: 'Melodic', 726: 'Whole',
     
 solfege = ['do', 're', 'mi', 'fa', 'so', 'la', 'ti']
 
-alternate_names = {125: ['Major'], 80: ['Minor', 'Natural Minor'], 145: ['Acoustic', 'Overtone', 'Lydian Dominant'], 6: ['Altered'], 76: ['Half Diminished'], 157: ['Lydian Augmented'], 116: ['Major Locrian'], 85: ['Melodic Minor'], 20: ['Neapolitan Major'], 120: ['Aeolian Dominant', 'Melodic Major', 'Hindu'], 36: ['"Rattlesnake"']}
+alternate_names = {125: ['Major'], 80: ['Minor', 'Natural Minor'], 145: ['Acoustic', 'Overtone', 'Lydian Dominant'], 6: ['Altered'], 76: ['Half Diminished'], 157: ['Lydian Augmented'], 116: ['Major Locrian'], 85: ['Melodic Minor'], 20: ['Neapolitan Major'], 120: ['Aeolian Dominant', 'Melodic Major', 'Hindu'], 35: ['Bayati'], 124: ['Jiharkah'], 32: ['Husayni \'Ushyaran'], 98: ['Rast'], 36: ['"Rattlesnake"']}
 
 # Enumerate all of them!
 scales = []
